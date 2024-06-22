@@ -5,5 +5,5 @@ import (
 )
 
 func CallD() {
-	fmt.Println("call D: v1.2.1")
+	fmt.Println("call D: v1.2.2")
 }
